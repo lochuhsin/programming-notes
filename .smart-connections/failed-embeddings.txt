@@ -1,0 +1,624 @@
+
+MyWebSite/DSA Problems/108. Convert Sorted Array to Binary Search Tree.md
+MyWebSite/DSA Problems/108. Convert Sorted Array to Binary Search Tree.md#Solution (Pre-Order)
+MyWebSite/DSA Problems/108. Convert Sorted Array to Binary Search Tree.md#Solution (Pre-Order)#Description
+MyWebSite/DSA Problems/11. Container With Most Water.md
+MyWebSite/DSA Problems/11. Container With Most Water.md#Description:
+MyWebSite/DSA Problems/11. Container With Most Water.md#Solution 1 (Two Pointer)
+MyWebSite/DSA Problems/113. Path Sum II.md
+MyWebSite/DSA Problems/113. Path Sum II.md#Description:
+MyWebSite/DSA Problems/113. Path Sum II.md#Solution 1 (My solution)
+MyWebSite/DSA Problems/113. Path Sum II.md#Solution 2 (Absolutly Clean)
+MyWebSite/DSA Problems/133. Clone Graph.md
+MyWebSite/DSA Problems/133. Clone Graph.md#Description:
+MyWebSite/DSA Problems/133. Clone Graph.md#Solution 1 ([[Breadth-first Search|BFS]])
+MyWebSite/DSA Problems/134. Gas Station.md
+MyWebSite/DSA Problems/134. Gas Station.md#Description:
+MyWebSite/DSA Problems/134. Gas Station.md#Solution 1
+MyWebSite/DSA Problems/139. Word Break.md
+MyWebSite/DSA Problems/139. Word Break.md#Description:{1}
+MyWebSite/DSA Problems/139. Word Break.md#Solution 1 (dfs + memorization)
+MyWebSite/DSA Problems/139. Word Break.md#Solution 2
+MyWebSite/DSA Problems/14. Longest Common Prefix.md
+MyWebSite/DSA Problems/141. Linked List Cycle.md
+MyWebSite/DSA Problems/15. 3Sum.md
+MyWebSite/DSA Problems/150. Evaluate Reverse Polish Notation.md
+MyWebSite/DSA Problems/150. Evaluate Reverse Polish Notation.md#Description:
+MyWebSite/DSA Problems/150. Evaluate Reverse Polish Notation.md#Solution 1
+MyWebSite/DSA Problems/152. Maximum Product Subarray.md
+MyWebSite/DSA Problems/152. Maximum Product Subarray.md#Description:
+MyWebSite/DSA Problems/152. Maximum Product Subarray.md#Solution 1 (Extremely brilliant, using the concept of sliding window)
+MyWebSite/DSA Problems/155. Min Stack.md
+MyWebSite/DSA Problems/155. Min Stack.md#Description:
+MyWebSite/DSA Problems/155. Min Stack.md#Description:{1}
+MyWebSite/DSA Problems/155. Min Stack.md#Description:{2}
+MyWebSite/DSA Problems/155. Min Stack.md#Solution 1 (Pair values)
+MyWebSite/DSA Problems/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md
+MyWebSite/DSA Problems/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md#Description:
+MyWebSite/DSA Problems/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md#Solution 1 (Before optimized)
+MyWebSite/DSA Problems/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.md#Solution 2 (Optmized)
+MyWebSite/DSA Problems/169. Majority Element.md
+MyWebSite/DSA Problems/1697. Checking Existence of Edge Length Limited Paths.md
+MyWebSite/DSA Problems/1730. Shortest Path to Get Food.md
+MyWebSite/DSA Problems/19. Remove Nth Node From End of List.md
+MyWebSite/DSA Problems/19. Remove Nth Node From End of List.md#Description:
+MyWebSite/DSA Problems/19. Remove Nth Node From End of List.md#Description:{1}
+MyWebSite/DSA Problems/19. Remove Nth Node From End of List.md#Solution 1 (Array one pass)
+MyWebSite/DSA Problems/198. House Robber.md
+MyWebSite/DSA Problems/198. House Robber.md#Solution 1 (recursive + cache)
+MyWebSite/DSA Problems/198. House Robber.md#Solution 2 (Dynamic Programming with memory optimized)
+MyWebSite/DSA Problems/199. Binary Tree Right Side View.md
+MyWebSite/DSA Problems/199. Binary Tree Right Side View.md#Description:
+MyWebSite/DSA Problems/199. Binary Tree Right Side View.md#Solution 1
+MyWebSite/DSA Problems/200. Number of Islands.md
+MyWebSite/DSA Problems/200. Number of Islands.md#Description:
+MyWebSite/DSA Problems/200. Number of Islands.md#Description:{1}
+MyWebSite/DSA Problems/200. Number of Islands.md#Solution 1 (BFS or DFS)
+MyWebSite/DSA Problems/200. Number of Islands.md#Solution 2 (Union Find)
+MyWebSite/DSA Problems/206. Reverse Linked List.md
+MyWebSite/DSA Problems/207. Course Schedule.md
+MyWebSite/DSA Problems/207. Course Schedule.md#Description:
+MyWebSite/DSA Problems/207. Course Schedule.md#Description:{1}
+MyWebSite/DSA Problems/207. Course Schedule.md#Solution 1 (BackTracking, not optimal but fundmental)
+MyWebSite/DSA Problems/207. Course Schedule.md#Solution 2 (Backtracking + memorization)
+MyWebSite/DSA Problems/211. Design Add and Search Words Data Structure.md
+MyWebSite/DSA Problems/211. Design Add and Search Words Data Structure.md#Description:
+MyWebSite/DSA Problems/211. Design Add and Search Words Data Structure.md#Solution 1 Prefix Tree implementation
+MyWebSite/DSA Problems/230. Kth Smallest Element in a BST.md
+MyWebSite/DSA Problems/230. Kth Smallest Element in a BST.md#Description:
+MyWebSite/DSA Problems/230. Kth Smallest Element in a BST.md#Solution 1 (Basic solution, always O(n))
+MyWebSite/DSA Problems/2336. Smallest Number in Infinite Set.md
+MyWebSite/DSA Problems/236. Lowest Common Ancestor of a Binary Tree.md
+MyWebSite/DSA Problems/236. Lowest Common Ancestor of a Binary Tree.md#Solution 1 (More Optimize way for assuming a lot of things)
+MyWebSite/DSA Problems/236. Lowest Common Ancestor of a Binary Tree.md#Solution 2 (Initial concept with flag count)
+MyWebSite/DSA Problems/238. Product of Array Except Self.md
+MyWebSite/DSA Problems/24. Swap Nodes in Pairs.md
+MyWebSite/DSA Problems/252. Meeting Rooms.md
+MyWebSite/DSA Problems/252. Meeting Rooms.md#Alternative Solution  (Heap, Priority Queue)
+MyWebSite/DSA Problems/252. Meeting Rooms.md#My Solution
+MyWebSite/DSA Problems/253. Meeting Rooms II.md
+MyWebSite/DSA Problems/253. Meeting Rooms II.md#Description:
+MyWebSite/DSA Problems/253. Meeting Rooms II.md#Solution 1
+MyWebSite/DSA Problems/26. Remove Duplicates from Sorted Array.md
+MyWebSite/DSA Problems/26. Remove Duplicates from Sorted Array.md#Description:
+MyWebSite/DSA Problems/26. Remove Duplicates from Sorted Array.md#Solution 1
+MyWebSite/DSA Problems/261. Graph Valid Tree.md
+MyWebSite/DSA Problems/261. Graph Valid Tree.md#Description:
+MyWebSite/DSA Problems/261. Graph Valid Tree.md#Solution 1 (My version)
+MyWebSite/DSA Problems/261. Graph Valid Tree.md#Solution 2 (Using union find approach, seems more natural)
+MyWebSite/DSA Problems/268. Missing Number.md
+MyWebSite/DSA Problems/268. Missing Number.md#My solution
+MyWebSite/DSA Problems/268. Missing Number.md#My solution#Description
+MyWebSite/DSA Problems/268. Missing Number.md#Optimal Solution
+MyWebSite/DSA Problems/268. Missing Number.md#Optimal Solution#Description
+MyWebSite/DSA Problems/27. Remove Element.md
+MyWebSite/DSA Problems/27. Remove Element.md#Description:
+MyWebSite/DSA Problems/27. Remove Element.md#Solution 1
+MyWebSite/DSA Problems/274. H-Index.md
+MyWebSite/DSA Problems/283. Move Zeros.md
+MyWebSite/DSA Problems/287. Find the Duplicate Number.md
+MyWebSite/DSA Problems/3. Longest Substring Without Repeating Characters.md
+MyWebSite/DSA Problems/3. Longest Substring Without Repeating Characters.md#Description:
+MyWebSite/DSA Problems/3. Longest Substring Without Repeating Characters.md#Description:{1}
+MyWebSite/DSA Problems/3. Longest Substring Without Repeating Characters.md#Solution 1 (mine) [[Queue]] + [[Set]](for look up)
+MyWebSite/DSA Problems/310. Minimum Height Trees.md
+MyWebSite/DSA Problems/310. Minimum Height Trees.md#Description:
+MyWebSite/DSA Problems/310. Minimum Height Trees.md#Solution 1 (Straight forward but TLE) my solution
+MyWebSite/DSA Problems/310. Minimum Height Trees.md#Solution 2 (Brilliant)
+MyWebSite/DSA Problems/310. Minimum Height Trees.md#Solution 3 (Brilliant)
+MyWebSite/DSA Problems/319. Bulb Switcher.md
+MyWebSite/DSA Problems/319. Bulb Switcher.md#Description:
+MyWebSite/DSA Problems/319. Bulb Switcher.md#Solution 1
+MyWebSite/DSA Problems/322. Coin Change.md
+MyWebSite/DSA Problems/322. Coin Change.md#Solution 1 (DFS + Memorization)
+MyWebSite/DSA Problems/322. Coin Change.md#Solution 2 (Dynamic Programming) (Bottom up)
+MyWebSite/DSA Problems/36. Valid Sudoku.md
+MyWebSite/DSA Problems/409.  Longest Palindrome.md
+MyWebSite/DSA Problems/46. Permutations.md
+MyWebSite/DSA Problems/49. Group Anagrams.md
+MyWebSite/DSA Problems/49. Group Anagrams.md#Description:
+MyWebSite/DSA Problems/49. Group Anagrams.md#Solution 1 (Using Ascii as Counter)
+MyWebSite/DSA Problems/53. Maixmum Subarray.md
+MyWebSite/DSA Problems/53. Maixmum Subarray.md#First Approach (Kadane's Algorithm) or Greedy or Dynamic Programming
+MyWebSite/DSA Problems/53. Maixmum Subarray.md#First Approach (Kadane's Algorithm) or Greedy or Dynamic Programming#Description
+MyWebSite/DSA Problems/54. Spiral Matrix.md
+MyWebSite/DSA Problems/542. 01 Matrix.md
+MyWebSite/DSA Problems/542. 01 Matrix.md#Dynamic Programming
+MyWebSite/DSA Problems/542. 01 Matrix.md#Dynamic Programming#Description
+MyWebSite/DSA Problems/542. 01 Matrix.md#My Approach
+MyWebSite/DSA Problems/542. 01 Matrix.md#My Approach#Description
+MyWebSite/DSA Problems/543. Diameter of Binary Tree.md
+MyWebSite/DSA Problems/56. Merge Intervals.md
+MyWebSite/DSA Problems/57. Insert Interval.md
+MyWebSite/DSA Problems/57. Insert Interval.md#My Approach#Description
+MyWebSite/DSA Problems/57. Insert Interval.md#Second Approach
+MyWebSite/DSA Problems/57. Insert Interval.md#Second Approach#Description:
+MyWebSite/DSA Problems/572. Subtree of Another Tree.md
+MyWebSite/DSA Problems/572. Subtree of Another Tree.md#My Approach
+MyWebSite/DSA Problems/572. Subtree of Another Tree.md#My Approach#Description
+MyWebSite/DSA Problems/572. Subtree of Another Tree.md#Second Approach (String Matching)#Description
+MyWebSite/DSA Problems/572. Subtree of Another Tree.md#Third Approach (Tree Hash)
+MyWebSite/DSA Problems/572. Subtree of Another Tree.md#Third Approach (Tree Hash)#Description
+MyWebSite/DSA Problems/62. Unique Paths.md
+MyWebSite/DSA Problems/62. Unique Paths.md#Description:{2}
+MyWebSite/DSA Problems/62. Unique Paths.md#Solution 1 (Combination method, still, will overflow)
+MyWebSite/DSA Problems/62. Unique Paths.md#Solution 2 (Recusive method, TLE)
+MyWebSite/DSA Problems/62. Unique Paths.md#Solution 3 (Dynamic Programming 2-D classic)
+MyWebSite/DSA Problems/658. Find K Closest Elements.md
+MyWebSite/DSA Problems/658. Find K Closest Elements.md#Description:{1}
+MyWebSite/DSA Problems/658. Find K Closest Elements.md#Solution 1 (BinarySearch + Sliding window)
+MyWebSite/DSA Problems/658. Find K Closest Elements.md#Solution 2 (Optimized Binary Search)
+MyWebSite/DSA Problems/662. Maximum Width of Binary Tree.md
+MyWebSite/DSA Problems/692. Top K Frequent Words.md
+MyWebSite/DSA Problems/692. Top K Frequent Words.md#Description:
+MyWebSite/DSA Problems/692. Top K Frequent Words.md#Description:{1}
+MyWebSite/DSA Problems/70. Climbing Stairs.md
+MyWebSite/DSA Problems/70. Climbing Stairs.md#Solution 1 (Recursive)
+MyWebSite/DSA Problems/70. Climbing Stairs.md#Solution 2 (Iterative)
+MyWebSite/DSA Problems/70. Climbing Stairs.md#Solution 2 (Two Constant)
+MyWebSite/DSA Problems/739. Daily Temperatures.md
+MyWebSite/DSA Problems/75. Sort Colors.md
+MyWebSite/DSA Problems/75. Sort Colors.md#Description:{1}
+MyWebSite/DSA Problems/75. Sort Colors.md#Solution 1 (Counting Sort) - 2 Pass
+MyWebSite/DSA Problems/78. Subsets.md
+MyWebSite/DSA Problems/78. Subsets.md#Description:
+MyWebSite/DSA Problems/78. Subsets.md#Solution 1
+MyWebSite/DSA Problems/80. Remove Duplicates from Sorted Array II.md
+MyWebSite/DSA Problems/80. Remove Duplicates from Sorted Array II.md#Description:
+MyWebSite/DSA Problems/80. Remove Duplicates from Sorted Array II.md#Solution 1
+MyWebSite/DSA Problems/839. Similar String Groups.md
+MyWebSite/DSA Problems/839. Similar String Groups.md#Description:
+MyWebSite/DSA Problems/839. Similar String Groups.md#Solution 1
+MyWebSite/DSA Problems/88. Merge Sorted Array.md
+MyWebSite/DSA Problems/88. Merge Sorted Array.md#Description:
+MyWebSite/DSA Problems/88. Merge Sorted Array.md#Solution 1
+MyWebSite/DSA Problems/9. Palindrome Number.md
+MyWebSite/DSA Problems/9. Palindrome Number.md#Optimal Solution
+MyWebSite/DSA Problems/9. Palindrome Number.md#Optimal Solution#Description
+MyWebSite/DSA Problems/973. K Closest Points to Origin.md
+MyWebSite/DSA Problems/973. K Closest Points to Origin.md#Description:
+MyWebSite/DSA Problems/973. K Closest Points to Origin.md#Solution 1 (Using [[Heap]], [[Priority Queue]])
+MyWebSite/DSA Problems/98. Validate Binary Search Tree.md
+MyWebSite/DSA Problems/98. Validate Binary Search Tree.md#Description:
+MyWebSite/DSA Problems/98. Validate Binary Search Tree.md#Description:{1}
+MyWebSite/DSA Problems/98. Validate Binary Search Tree.md#Solution 1 (Inorder method)
+MyWebSite/DSA Problems/98. Validate Binary Search Tree.md#Solution 2 (Min, Max method)
+MyWebSite/DSA Problems/981. Time Based Key-Value Store.md
+MyWebSite/DSA Problems/981. Time Based Key-Value Store.md#Description:
+MyWebSite/DSA Problems/981. Time Based Key-Value Store.md#Description:{1}
+MyWebSite/DSA Problems/981. Time Based Key-Value Store.md#Solution 1 (Map + BinarySearch)
+MyWebSite/DSA Problems/981. Time Based Key-Value Store.md#Solution 2 (Map + BinarySearch with different approach)
+MyWebSite/DSA Problems/994. Rotting Oranges.md
+MyWebSite/DSA Problems/994. Rotting Oranges.md#Description:
+MyWebSite/DSA Problems/994. Rotting Oranges.md#Solution 1 (BFS)
+MyWebSite/DSA Problems/Grind 75 list.md
+MyWebSite/DSA Problems/Interesing Algorithm List.md
+MyWebSite/Economy Vault/Permanent Note/Cash Ratio.md
+MyWebSite/Economy Vault/Permanent Note/Interest Rates.md
+MyWebSite/Economy Vault/Permanent Note/Money Multiplier.md
+MyWebSite/Insights and Obstacles/Adding new feature server to our system.md
+MyWebSite/Insights and Obstacles/Adding new feature server to our system.md#Background
+MyWebSite/Insights and Obstacles/Adding new feature server to our system.md#Conclusion:
+MyWebSite/Insights and Obstacles/Adding new feature server to our system.md#Insights and Lessons Learned
+MyWebSite/Insights and Obstacles/Adding new feature server to our system.md#Insights and Lessons Learned#Cons:
+MyWebSite/Insights and Obstacles/Adding new feature server to our system.md#Insights and Lessons Learned#Pros:
+MyWebSite/Insights and Obstacles/Adding new feature server to our system.md#Introduction
+MyWebSite/Insights and Obstacles/How to upload large amount of files to our storage?.md
+MyWebSite/Insights and Obstacles/How to upload large amount of files to our storage?.md#Background
+MyWebSite/Insights and Obstacles/How to upload large amount of files to our storage?.md#Introduction
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 1).md
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 1).md#Background:
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 1).md#Introduction
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 1).md#Logging Process
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 2).md
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 2).md#Anything but data
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 2).md#BrainStorming ......
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 2).md#BrainStorming ......#Authentication
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 2).md#BrainStorming ......#Authorization
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 2).md#Introduction:
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 2).md#Solving Authorization
+MyWebSite/Insights and Obstacles/Moving our platform to SAAS (Part 3).md
+MyWebSite/Software Engineer Vault/ABAC - Attribute Base Access Control.md
+MyWebSite/Software Engineer Vault/AND.md
+MyWebSite/Software Engineer Vault/API Docs.md
+MyWebSite/Software Engineer Vault/API Docs.md#Description
+MyWebSite/Software Engineer Vault/API Docs.md#List of render and frameworks
+MyWebSite/Software Engineer Vault/Airflow Callbacks.md
+MyWebSite/Software Engineer Vault/Airflow Variable Example.md
+MyWebSite/Software Engineer Vault/Airflow.md
+MyWebSite/Software Engineer Vault/Airflow.md#Basic components
+MyWebSite/Software Engineer Vault/Airflow.md#Communicate between task
+MyWebSite/Software Engineer Vault/Airflow.md#Intermediate usage
+MyWebSite/Software Engineer Vault/Airflow.md#Practical usage examples
+MyWebSite/Software Engineer Vault/Algorithm.md
+MyWebSite/Software Engineer Vault/Algorithm.md#Algorithm List:
+MyWebSite/Software Engineer Vault/Algorithm.md#Algorithm List:#Interesting Algorithm
+MyWebSite/Software Engineer Vault/Allocator.md
+MyWebSite/Software Engineer Vault/Allocator.md#Description
+MyWebSite/Software Engineer Vault/Allocator.md#Free-List Bump Allocator
+MyWebSite/Software Engineer Vault/Allocator.md#Sequential Allocator (Bump Allocator)
+MyWebSite/Software Engineer Vault/Amazon Elastic Kubernetes Service.md
+MyWebSite/Software Engineer Vault/Amazon Web Services.md
+MyWebSite/Software Engineer Vault/Amazon Web Services.md#Description
+MyWebSite/Software Engineer Vault/Amazon Web Services.md#Services
+MyWebSite/Software Engineer Vault/Array Example.md
+MyWebSite/Software Engineer Vault/Array.md
+MyWebSite/Software Engineer Vault/AsyncAPI Example.md
+MyWebSite/Software Engineer Vault/AsyncAPI.md
+MyWebSite/Software Engineer Vault/Attribute Base Access Control.md
+MyWebSite/Software Engineer Vault/Auth0.md
+MyWebSite/Software Engineer Vault/Authentication.md
+MyWebSite/Software Engineer Vault/Authorization.md
+MyWebSite/Software Engineer Vault/Automatic Conflict Resolution.md
+MyWebSite/Software Engineer Vault/Availability Numbers.md
+MyWebSite/Software Engineer Vault/Azure CLoud.md
+MyWebSite/Software Engineer Vault/B-Tree.md
+MyWebSite/Software Engineer Vault/Batch Processing Systems.md
+MyWebSite/Software Engineer Vault/Berkeley Algorithm.md
+MyWebSite/Software Engineer Vault/Binary Search.md
+MyWebSite/Software Engineer Vault/Bit Operation.md
+MyWebSite/Software Engineer Vault/Bitmap Encoding.md
+MyWebSite/Software Engineer Vault/Blocking IO.md
+MyWebSite/Software Engineer Vault/Blocking IO.md#2. bind and listen
+MyWebSite/Software Engineer Vault/Blocking IO.md#Description
+MyWebSite/Software Engineer Vault/Bloom Filter Code Example.md
+MyWebSite/Software Engineer Vault/Bool Query Example.md
+MyWebSite/Software Engineer Vault/Breadth-first Search.md
+MyWebSite/Software Engineer Vault/CI & CD.md
+MyWebSite/Software Engineer Vault/CI & CD.md#Description
+MyWebSite/Software Engineer Vault/CI & CD.md#Tools
+MyWebSite/Software Engineer Vault/Cache Aside.md
+MyWebSite/Software Engineer Vault/Cache Topic RoadMap.md
+MyWebSite/Software Engineer Vault/Cache.md
+MyWebSite/Software Engineer Vault/Cache.md#Caching Strategy
+MyWebSite/Software Engineer Vault/Cache.md#Caching Strategy#2. Write Strategies
+MyWebSite/Software Engineer Vault/Cache.md#Considerations & When
+MyWebSite/Software Engineer Vault/Clock Synchronization.md
+MyWebSite/Software Engineer Vault/Cluster Index.md
+MyWebSite/Software Engineer Vault/Cluster.md
+MyWebSite/Software Engineer Vault/ClusterIP.md
+MyWebSite/Software Engineer Vault/Collapse Query.md
+MyWebSite/Software Engineer Vault/Collector.md
+MyWebSite/Software Engineer Vault/Column-Oriented Storage.md
+MyWebSite/Software Engineer Vault/Concurrency.md
+MyWebSite/Software Engineer Vault/ConfigMap.md
+MyWebSite/Software Engineer Vault/Conflict-free replicated datatypes (CRDTs).md
+MyWebSite/Software Engineer Vault/Consistent hashing.md
+MyWebSite/Software Engineer Vault/Content Delivery Network (CDN).md
+MyWebSite/Software Engineer Vault/Copying GC.md
+MyWebSite/Software Engineer Vault/Counting Sort Example.md
+MyWebSite/Software Engineer Vault/Counting Sort.md
+MyWebSite/Software Engineer Vault/CronJob.md
+MyWebSite/Software Engineer Vault/Cypress.md
+MyWebSite/Software Engineer Vault/DAU (Daily active users).md
+MyWebSite/Software Engineer Vault/DaemonSet.md
+MyWebSite/Software Engineer Vault/Dag Example.md
+MyWebSite/Software Engineer Vault/Data Structure.md
+MyWebSite/Software Engineer Vault/Database Sharding.md
+MyWebSite/Software Engineer Vault/Database.md
+MyWebSite/Software Engineer Vault/Database.md#Database Storage Type
+MyWebSite/Software Engineer Vault/Database.md#Databases:#SQL:
+MyWebSite/Software Engineer Vault/Database.md#Indexing
+MyWebSite/Software Engineer Vault/Database.md#NoSQL:
+MyWebSite/Software Engineer Vault/Database.md#Replica
+MyWebSite/Software Engineer Vault/Database.md#Sharding
+MyWebSite/Software Engineer Vault/Database.md#WAL (Write ahead log)
+MyWebSite/Software Engineer Vault/Dataware House.md
+MyWebSite/Software Engineer Vault/Deadlock.md
+MyWebSite/Software Engineer Vault/Dependency Injection.md
+MyWebSite/Software Engineer Vault/Deployment.md
+MyWebSite/Software Engineer Vault/Deployment.md#Recreate strategy
+MyWebSite/Software Engineer Vault/Deployment.md#Rolling Update
+MyWebSite/Software Engineer Vault/Depth-first Search.md
+MyWebSite/Software Engineer Vault/Designing a checkpoint system - Airflow.md
+MyWebSite/Software Engineer Vault/DevOps.md
+MyWebSite/Software Engineer Vault/Distributed System Design.md
+MyWebSite/Software Engineer Vault/Distributed System Design.md#Different Type of Services
+MyWebSite/Software Engineer Vault/Distributed System Design.md#Eventual Consistency
+MyWebSite/Software Engineer Vault/Distributed System Design.md#Monotonic Reads
+MyWebSite/Software Engineer Vault/Distributed System Design.md#Multi-MicroService Design
+MyWebSite/Software Engineer Vault/Distributed System Design.md#Read-After-Write consistency
+MyWebSite/Software Engineer Vault/Django Auth.md
+MyWebSite/Software Engineer Vault/Django commands.md
+MyWebSite/Software Engineer Vault/Django.md
+MyWebSite/Software Engineer Vault/Docker.md
+MyWebSite/Software Engineer Vault/Drone.md
+MyWebSite/Software Engineer Vault/Dynamic Programming.md
+MyWebSite/Software Engineer Vault/Dynamic Task Mapping.md
+MyWebSite/Software Engineer Vault/Dynamic Task Mapping.md#The results will be a list of every expanded tasks
+MyWebSite/Software Engineer Vault/Dynamic Task Mapping.md#To fix one parameters, use partial
+MyWebSite/Software Engineer Vault/ElasticSearch DSL.md
+MyWebSite/Software Engineer Vault/ElasticSearch DSL.md#Aggregation
+MyWebSite/Software Engineer Vault/ElasticSearch DSL.md#Query
+MyWebSite/Software Engineer Vault/ElasticSearch.md
+MyWebSite/Software Engineer Vault/ElasticSearch.md#Database Attributes
+MyWebSite/Software Engineer Vault/ElasticSearch.md#Note
+MyWebSite/Software Engineer Vault/ElasticSearch.md#Query Language:
+MyWebSite/Software Engineer Vault/End to End Testing.md
+MyWebSite/Software Engineer Vault/Entity Component System.md
+MyWebSite/Software Engineer Vault/Epoll.md
+MyWebSite/Software Engineer Vault/Example of creating a pod using yaml.md
+MyWebSite/Software Engineer Vault/Example, Go.md
+MyWebSite/Software Engineer Vault/Exists Query Example.md
+MyWebSite/Software Engineer Vault/File Descriptor (fd).md
+MyWebSite/Software Engineer Vault/File Descriptor (fd).md#Description:
+MyWebSite/Software Engineer Vault/File Descriptor (fd).md#In python
+MyWebSite/Software Engineer Vault/Filter Aggregation Example.md
+MyWebSite/Software Engineer Vault/Fixed window counter.md
+MyWebSite/Software Engineer Vault/GPM Model.md
+MyWebSite/Software Engineer Vault/GPM Model.md#Description:
+MyWebSite/Software Engineer Vault/GPM Model.md#The Spec of GPM Model
+MyWebSite/Software Engineer Vault/GPM Model.md#WorkFLow Detail
+MyWebSite/Software Engineer Vault/Game Engine.md
+MyWebSite/Software Engineer Vault/Garbage Collection Algorithm.md
+MyWebSite/Software Engineer Vault/Generational GC.md
+MyWebSite/Software Engineer Vault/Git Commands.md
+MyWebSite/Software Engineer Vault/Go Allocator.md
+MyWebSite/Software Engineer Vault/Go Allocator.md#A bigger view
+MyWebSite/Software Engineer Vault/Go Allocator.md#Central Cache
+MyWebSite/Software Engineer Vault/Go Allocator.md#How go implements allocator ?#Treating different object size
+MyWebSite/Software Engineer Vault/Go Allocator.md#Introducing different level cache
+MyWebSite/Software Engineer Vault/Go Allocator.md#Page Heap
+MyWebSite/Software Engineer Vault/Go Allocator.md#Thread Cache
+MyWebSite/Software Engineer Vault/Go Array Pointer.md
+MyWebSite/Software Engineer Vault/Go Array Pointer.md#Every Variable is copy, even with uncat pointers
+MyWebSite/Software Engineer Vault/Go Array Pointer.md#Passing array pointer through function
+MyWebSite/Software Engineer Vault/Go Array Pointer.md#This only copy pointer(address)
+MyWebSite/Software Engineer Vault/Go Collector.md
+MyWebSite/Software Engineer Vault/Go Escape Analysis.md
+MyWebSite/Software Engineer Vault/Go Memory Model.md
+MyWebSite/Software Engineer Vault/Go Mutator.md
+MyWebSite/Software Engineer Vault/Go.md
+MyWebSite/Software Engineer Vault/Go.md#Language Feature notes#Documents
+MyWebSite/Software Engineer Vault/Go.md#Language Feature notes#Ideas:
+MyWebSite/Software Engineer Vault/Go.md#Language Implementation Detail#Data Structure
+MyWebSite/Software Engineer Vault/Go.md#Language Implementation Detail#Memory Management
+MyWebSite/Software Engineer Vault/Go.md#Language Implementation Detail#Memory Management#Go implementation
+MyWebSite/Software Engineer Vault/Go.md#Language Implementation Detail#Memory Model
+MyWebSite/Software Engineer Vault/GraphQL.md
+MyWebSite/Software Engineer Vault/Greedy.md
+MyWebSite/Software Engineer Vault/Hash Function.md
+MyWebSite/Software Engineer Vault/HashMap.md
+MyWebSite/Software Engineer Vault/Headers.md
+MyWebSite/Software Engineer Vault/Heap Examples.md
+MyWebSite/Software Engineer Vault/Heap.md
+MyWebSite/Software Engineer Vault/Heap.md#Properties (max heap as example):
+MyWebSite/Software Engineer Vault/Heap.md#Properties (max heap as example):#Ideas
+MyWebSite/Software Engineer Vault/Helm Commands.md
+MyWebSite/Software Engineer Vault/Identity And Access Management (IAM).md
+MyWebSite/Software Engineer Vault/Index.md
+MyWebSite/Software Engineer Vault/Index.md#Description:
+MyWebSite/Software Engineer Vault/Index.md#Indexing Types:
+MyWebSite/Software Engineer Vault/Index.md#Trade-offs:
+MyWebSite/Software Engineer Vault/Ingress.md
+MyWebSite/Software Engineer Vault/Ingress.md#Create Ingress
+MyWebSite/Software Engineer Vault/Ingress.md#Create Ingress#Ingress Controller
+MyWebSite/Software Engineer Vault/Ingress.md#Create Ingress#Ingress Resource
+MyWebSite/Software Engineer Vault/Inversion of Control.md
+MyWebSite/Software Engineer Vault/Inversion of Control.md#Description
+MyWebSite/Software Engineer Vault/Inversion of Control.md#Examples:
+MyWebSite/Software Engineer Vault/Inversion of Control.md#How to solve this ?
+MyWebSite/Software Engineer Vault/Inversion of Control.md#Still there is one step a way to perfection
+MyWebSite/Software Engineer Vault/Inversion of Control.md#We can do it better
+MyWebSite/Software Engineer Vault/Jenkins.md
+MyWebSite/Software Engineer Vault/Job.md
+MyWebSite/Software Engineer Vault/Json Web Token.md
+MyWebSite/Software Engineer Vault/Kubernetes Command.md
+MyWebSite/Software Engineer Vault/Kubernetes.md
+MyWebSite/Software Engineer Vault/Kubernetes.md#Accounts
+MyWebSite/Software Engineer Vault/Kubernetes.md#Annotations
+MyWebSite/Software Engineer Vault/Kubernetes.md#Basic components
+MyWebSite/Software Engineer Vault/Kubernetes.md#Resources of Kubernetes
+MyWebSite/Software Engineer Vault/LSM Tree.md
+MyWebSite/Software Engineer Vault/Lambda.md
+MyWebSite/Software Engineer Vault/Lamport Timestamps.md
+MyWebSite/Software Engineer Vault/Latency numbers for the 2020s.md
+MyWebSite/Software Engineer Vault/Leaderless Replication.md
+MyWebSite/Software Engineer Vault/Leaky bucket.md
+MyWebSite/Software Engineer Vault/Left Shift.md
+MyWebSite/Software Engineer Vault/Linux Networking.md
+MyWebSite/Software Engineer Vault/Linux Networking.md#Description
+MyWebSite/Software Engineer Vault/Linux Networking.md#Socket
+MyWebSite/Software Engineer Vault/Livelock.md
+MyWebSite/Software Engineer Vault/Liveness Probe.md
+MyWebSite/Software Engineer Vault/LoadBalancer.md
+MyWebSite/Software Engineer Vault/LoadBalancer.md#Description
+MyWebSite/Software Engineer Vault/LoadBalancer.md#In K8s
+MyWebSite/Software Engineer Vault/Logical (row-based) log replication.md
+MyWebSite/Software Engineer Vault/MapReduce.md
+MyWebSite/Software Engineer Vault/Mark Compact.md
+MyWebSite/Software Engineer Vault/Mark Sweep.md
+MyWebSite/Software Engineer Vault/Master Slave Replication (Model).md
+MyWebSite/Software Engineer Vault/Master Slave Replication (Model).md#Advantages
+MyWebSite/Software Engineer Vault/Master Slave Replication (Model).md#Handling Service Outages
+MyWebSite/Software Engineer Vault/Master Slave Replication (Model).md#Implementation of Replication logs
+MyWebSite/Software Engineer Vault/Match Query Example.md
+MyWebSite/Software Engineer Vault/Mergeable persistent data structures.md
+MyWebSite/Software Engineer Vault/Message Queue.md
+MyWebSite/Software Engineer Vault/Multi-Leader Replication.md
+MyWebSite/Software Engineer Vault/Multi-Leader Replication.md#Collaborative editing
+MyWebSite/Software Engineer Vault/Multi-Leader Replication.md#Cons:
+MyWebSite/Software Engineer Vault/Multi-Leader Replication.md#Cons:#Resolving Conflicts
+MyWebSite/Software Engineer Vault/Multi-Leader Replication.md#Pros:
+MyWebSite/Software Engineer Vault/Mutator.md
+MyWebSite/Software Engineer Vault/NOT.md
+MyWebSite/Software Engineer Vault/Namespace.md
+MyWebSite/Software Engineer Vault/Nested Aggregation Example.md
+MyWebSite/Software Engineer Vault/Network Time Protocol.md
+MyWebSite/Software Engineer Vault/NetworkPolicy.md
+MyWebSite/Software Engineer Vault/Node Affinity - Deployment example.md
+MyWebSite/Software Engineer Vault/Node Affinity.md
+MyWebSite/Software Engineer Vault/Node Affinity.md#Node Affinity Types
+MyWebSite/Software Engineer Vault/Node Affinity.md#Operator
+MyWebSite/Software Engineer Vault/Node.md
+MyWebSite/Software Engineer Vault/Node.md#Taints and Tolerations
+MyWebSite/Software Engineer Vault/Node.md#Taints/Tolerations and Node Affinity
+MyWebSite/Software Engineer Vault/NodePort.md
+MyWebSite/Software Engineer Vault/None Blocking IO.md
+MyWebSite/Software Engineer Vault/None Cluster Index.md
+MyWebSite/Software Engineer Vault/None Random Pagination.md
+MyWebSite/Software Engineer Vault/None Unique Value Index.md
+MyWebSite/Software Engineer Vault/Normalize & Denormalize database.md
+MyWebSite/Software Engineer Vault/Not Exists Query Example.md
+MyWebSite/Software Engineer Vault/OR.md
+MyWebSite/Software Engineer Vault/Online Systems.md
+MyWebSite/Software Engineer Vault/OpenAPI.md
+MyWebSite/Software Engineer Vault/Operating System.md
+MyWebSite/Software Engineer Vault/Operational Transformation.md
+MyWebSite/Software Engineer Vault/Pagination.md
+MyWebSite/Software Engineer Vault/Pod Lifecycle.md
+MyWebSite/Software Engineer Vault/Pod Lifecycle.md#Pod Conditions
+MyWebSite/Software Engineer Vault/Pod Lifecycle.md#Pod status
+MyWebSite/Software Engineer Vault/Pod.md
+MyWebSite/Software Engineer Vault/Pod.md#Environment Variables
+MyWebSite/Software Engineer Vault/Pod.md#Lifeness Prob
+MyWebSite/Software Engineer Vault/Pod.md#Node Affinity
+MyWebSite/Software Engineer Vault/Pod.md#Node Selector
+MyWebSite/Software Engineer Vault/Pod.md#Persistent Volume
+MyWebSite/Software Engineer Vault/Pod.md#Readiness Prob
+MyWebSite/Software Engineer Vault/Pod.md#Resource Requests
+MyWebSite/Software Engineer Vault/Pod.md#Restart Policy
+MyWebSite/Software Engineer Vault/Pod.md#Security Context
+MyWebSite/Software Engineer Vault/Pod.md#Toleration
+MyWebSite/Software Engineer Vault/Pod.md#Volumes
+MyWebSite/Software Engineer Vault/Pointer.md
+MyWebSite/Software Engineer Vault/Poll.md
+MyWebSite/Software Engineer Vault/Postgres.md
+MyWebSite/Software Engineer Vault/Pre-Signed URL.md
+MyWebSite/Software Engineer Vault/Prefix Tree (Trie).md
+MyWebSite/Software Engineer Vault/Priority Queue.md
+MyWebSite/Software Engineer Vault/Problems of master slave model.md
+MyWebSite/Software Engineer Vault/Process.md
+MyWebSite/Software Engineer Vault/Producer and Consumer.md
+MyWebSite/Software Engineer Vault/Producer and Consumer.md#1. None blocking producer, consumer example
+MyWebSite/Software Engineer Vault/Producer and Consumer.md#2. None blocking producer consumer using lock
+MyWebSite/Software Engineer Vault/Protocol.md
+MyWebSite/Software Engineer Vault/Protocol.md#Description
+MyWebSite/Software Engineer Vault/Protocol.md#Internet Application Layer Protocols
+MyWebSite/Software Engineer Vault/Public Clouds.md
+MyWebSite/Software Engineer Vault/Public Clouds.md#Clouds
+MyWebSite/Software Engineer Vault/Public Clouds.md#Description
+MyWebSite/Software Engineer Vault/QPS (Query per second).md
+MyWebSite/Software Engineer Vault/Queue.md
+MyWebSite/Software Engineer Vault/Quick Sort.md
+MyWebSite/Software Engineer Vault/Race Condition.md
+MyWebSite/Software Engineer Vault/Raft Consensus Algorithm.md
+MyWebSite/Software Engineer Vault/Random Pagination.md
+MyWebSite/Software Engineer Vault/Range Query Example.md
+MyWebSite/Software Engineer Vault/Rate Limit.md
+MyWebSite/Software Engineer Vault/Read Through.md
+MyWebSite/Software Engineer Vault/Read Through.md#Cons:
+MyWebSite/Software Engineer Vault/Read Through.md#Pros:
+MyWebSite/Software Engineer Vault/Readiness Probe.md
+MyWebSite/Software Engineer Vault/ReplicaSet.md
+MyWebSite/Software Engineer Vault/ResourceQuota.md
+MyWebSite/Software Engineer Vault/Right Shift.md
+MyWebSite/Software Engineer Vault/Role Base Access Control.md
+MyWebSite/Software Engineer Vault/Row-Oriented Storage.md
+MyWebSite/Software Engineer Vault/S3.md
+MyWebSite/Software Engineer Vault/Secret.md
+MyWebSite/Software Engineer Vault/Select (Linux System Call).md
+MyWebSite/Software Engineer Vault/Service.md
+MyWebSite/Software Engineer Vault/ServiceAccount.md
+MyWebSite/Software Engineer Vault/Set.md
+MyWebSite/Software Engineer Vault/Simple Notification Service (SNS).md
+MyWebSite/Software Engineer Vault/Simple Notification Service (SNS).md#Description
+MyWebSite/Software Engineer Vault/Simple Notification Service (SNS).md#Setting Up
+MyWebSite/Software Engineer Vault/Simple Queue Service (SQS).md
+MyWebSite/Software Engineer Vault/Skip List ( Search, Delete  Add, not finished yet).md
+MyWebSite/Software Engineer Vault/Sliding window algorithm.md
+MyWebSite/Software Engineer Vault/Sliding window log algorithm.md
+MyWebSite/Software Engineer Vault/Software As A Service.md
+MyWebSite/Software Engineer Vault/Software Design.md
+MyWebSite/Software Engineer Vault/Software Licensing Model.md
+MyWebSite/Software Engineer Vault/Starvation.md
+MyWebSite/Software Engineer Vault/StatefulSets.md
+MyWebSite/Software Engineer Vault/Statement-based replication.md
+MyWebSite/Software Engineer Vault/Stream process systems.md
+MyWebSite/Software Engineer Vault/Structure Picture.md
+MyWebSite/Software Engineer Vault/System Design.md
+MyWebSite/Software Engineer Vault/System Design.md#Clouds
+MyWebSite/Software Engineer Vault/System Design.md#Description:
+MyWebSite/Software Engineer Vault/System Design.md#Layers
+MyWebSite/Software Engineer Vault/Systems.md
+MyWebSite/Software Engineer Vault/TCP IP.md
+MyWebSite/Software Engineer Vault/Taint.md
+MyWebSite/Software Engineer Vault/Term Query Example.md
+MyWebSite/Software Engineer Vault/Terms Aggregation Example.md
+MyWebSite/Software Engineer Vault/Tests.md
+MyWebSite/Software Engineer Vault/Thread-Caching Malloc (TC Malloc).md
+MyWebSite/Software Engineer Vault/Thread.md
+MyWebSite/Software Engineer Vault/Token Bucket.md
+MyWebSite/Software Engineer Vault/Toleration.md
+MyWebSite/Software Engineer Vault/Topological Sort.md
+MyWebSite/Software Engineer Vault/Trigger Rule Example.md
+MyWebSite/Software Engineer Vault/Trigger Rule.md
+MyWebSite/Software Engineer Vault/Trigger-based replication.md
+MyWebSite/Software Engineer Vault/Two Pointer.md
+MyWebSite/Software Engineer Vault/UDP.md
+MyWebSite/Software Engineer Vault/UnionFind (Disjoint Set).md
+MyWebSite/Software Engineer Vault/UnionFind (Disjoint Set).md#Implementation (Go):
+MyWebSite/Software Engineer Vault/UnionFind (Disjoint Set).md#Key Concepts:
+MyWebSite/Software Engineer Vault/Unique Id Generator.md
+MyWebSite/Software Engineer Vault/Unique Id Generator.md#Snowflake UUID method
+MyWebSite/Software Engineer Vault/Unique Id Generator.md#UUID series (e.g UUID4)
+MyWebSite/Software Engineer Vault/Unique Value Index.md
+MyWebSite/Software Engineer Vault/Vector Clocks.md
+MyWebSite/Software Engineer Vault/WAL (write ahead log).md
+MyWebSite/Software Engineer Vault/WebSocket.md
+MyWebSite/Software Engineer Vault/Write Around.md
+MyWebSite/Software Engineer Vault/Write Around.md#Cons:
+MyWebSite/Software Engineer Vault/Write Around.md#Pros:
+MyWebSite/Software Engineer Vault/Write Back (Behind).md
+MyWebSite/Software Engineer Vault/Write Back (Behind).md#Cons
+MyWebSite/Software Engineer Vault/Write Back (Behind).md#Pros
+MyWebSite/Software Engineer Vault/Write Through.md
+MyWebSite/Software Engineer Vault/Write Through.md#Cons:
+MyWebSite/Software Engineer Vault/Write Through.md#Pros:
+MyWebSite/Software Engineer Vault/Write-ahead log (WAL) shipping.md
+MyWebSite/Software Engineer Vault/XOR.md
+MyWebSite/Software Engineer Vault/Yaml Templates.md
+MyWebSite/Software Engineer Vault/gRPC.md
+MyWebSite/TechStack.md
+MyWebSite/TechStack.md#- Cloud & Containerize (AWS and Azure)
+MyWebSite/TechStack.md#- Frameworks
+MyWebSite/TechStack.md#- Others
+MyWebSite/Topic Index (Tech).md
+MyWebSite/Topic Index (Tech).md#Description
+MyWebSite/Topic Index (Tech).md#Indexes:
+MyWebSite/Topic Index (Thoughts, Insights and Obstacles).md
+MyWebSite/Welcome to my journey.md
+MyWebSite/Welcome to my journey.md#Don't forget to contact me
+MyWebSite/Welcome to my journey.md#My Profession
+MyWebSite/Welcome to my journey.md#My Profession#Projects
+MyWebSite/Welcome to my journey.md#What you will find here ?
+MyWebSite/Welcome to my journey.md#Who am I ?
+NewNotes/105. Construct Binary Tree from Preorder and Inorder Traversal (Not fnish yet).md
+NewNotes/1143. Longest Common Subsequence (Unfinished).md
+NewNotes/1456. Maximum Number of Vowels in a Substring of Given Length.md
+NewNotes/300. Longest Increasing Subsequence (Not finished yet.md
+NewNotes/416. Partition Equal Subset Sum (Not finish yet).md
+NewNotes/417. Pacific Atlantic Water Flow (Not finished yet).md
+NewNotes/5. Longest Palindromic Substring (Not finished yet).md
+NewNotes/721. Accounts Merge (Not finish yet).md
+NewNotes/8. String to Integer (atoi) (Not finished yet).md
+NewNotes/Fleet Note/Abstract Syntax Tree.md
+NewNotes/Fleet Note/Blue-Green deployment.md
+NewNotes/Fleet Note/CSRF.md
+NewNotes/Fleet Note/Cypress End to End test.md
+NewNotes/Fleet Note/Daemon and striped log implementation..md
+NewNotes/Fleet Note/Data Isolation.md
+NewNotes/Fleet Note/Debounce & Throttling (Frontend Tech).md
+NewNotes/Fleet Note/Economy.md
+NewNotes/Fleet Note/ElasticSearch dsl scrolling too slow.md
+NewNotes/Fleet Note/Fluent bit (fast metric server).md
+NewNotes/Fleet Note/Implement a interpreter.md
+NewNotes/Fleet Note/Multi tenant models.md
+NewNotes/Fleet Note/Polish Notation.md
+NewNotes/Quine-McCluskey Algorithm.md
+NewNotes/facebook follow up.md
+Templates/DSA Problem Template.md
+Templates/Daily Journal Template.md
+Templates/Fleet Card.md
+Templates/Permanent Card.md
+Templates/Work Insights and Obstacles.md

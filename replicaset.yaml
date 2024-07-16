@@ -1,0 +1,25 @@
+apiVersion: apps/v1 
+kind: ReplicaSet
+metadata:
+  name: myapp-rc
+  labels:
+    app: myapp
+    type: asdfhjkl
+spec:
+  template:
+    metadata: # dictionary for pods
+      name: nginx
+      labels: # dictionary
+        app: myapp
+        tier: router
+        tag: fuckthis
+    spec:
+      containers:
+      - name: nginx
+        image: nginx
+
+  replicas: 3
+  selector:
+    matchLabels:
+      app: myapp
+

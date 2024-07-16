@@ -1,0 +1,9 @@
+{
+  "accentColor": "#595959",
+  "translucency": true,
+  "interfaceFontFamily": "Andale Mono",
+  "textFontFamily": "Andale Mono",
+  "baseFontSize": 20,
+  "cssTheme": "Things",
+  "theme": "obsidian"
+}

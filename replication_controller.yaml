@@ -1,0 +1,36 @@
+apiVersion: v1  #apps/v1 slash is used for replica-set
+kind: ReplicationController
+metadata:  # metadata for replication controller
+  name: myapp-rc
+  labels:
+    app: myapp
+    type: asdfhjkl
+spec:  # the spec section defines what's inside the objects we are creating
+  template: # template section is a pod template to be used by replication controller
+    # same as creating a pod except apiVersion and kind
+    metadata: # dictionary for pods
+      name: nginx
+      labels: # dictionary
+        app: nginx
+        tier: router
+        tag: fuckthis
+    spec:
+      containers:  # list of objects (dictionaries)
+      - name: nginx
+        image: nginx
+
+  replicas: 3 # defining how many pods to create
+
+  # selector: a label... to help replica-set to manage which pods is falling in this set
+  # why ? because replica-set could manage pods that isn't created by this replica-set
+  # through tags
+  # this is the major difference
+
+
+# a replication controller creates multiple pods with pod template
+
+# scaling replicaset
+# 1. change the replicas number and use
+# kubectl replace -f <yaml filename> to replace existing file
+# 2. kubectl scale --replicas=6 -f <yaml filename, this is optional>
+

@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "7276362a0298d1f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c8e06f7477e54a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fed543f7308965a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyWebSite/Worth Reading Web Articles and Pages/Go benchmark best practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea64b78f3a79c943",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "2ab4cdd55ac1fe75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NewNotes/Cross Origin Resource Sharing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f24c9d7f76a7a562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NewNotes/Option Method (Request).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "553f8b2c6792e3c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b901fde58000b06b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09cbdf4f3db40c05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b430bee449eda093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "test ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79d53646ade2aaf3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "aff04c8bb767a7ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "4615d18949f07bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec641dc3150aad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313890306c645237",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyWebSite/Worth Reading Web Articles and Pages/Go benchmark best practice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "080b07695b5b02fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MyWebSite/Worth Reading Web Articles and Pages/Go benchmark best practice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed7691e5f0651d0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "77d57150b4e0cd5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyWebSite/Worth Reading Web Articles and Pages/Go benchmark best practice.md"
+              }
+            }
+          },
+          {
+            "id": "9ce61fae0f5638db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ea64b78f3a79c943",
+  "lastOpenFiles": [
+    "MyWebSite/TechStack.md",
+    "MyWebSite/Welcome to my journey.md",
+    "NewNotes/How to get raised ?.md",
+    "NewNotes/SnowFlake ID.md",
+    "NewNotes/Columnar Database (column-oriented database).md",
+    "MyWebSite/Worth Reading Web Articles and Pages/The key of BigCache (Figure and Concept Level), add source2, extreme optimize.md",
+    "NewNotes/Cross Origin Resource Sharing.md",
+    "NewNotes/Option Method (Request).md",
+    "NewNotes/Untitled 1.md",
+    "MyWebSite/Software Engineer Vault/Frontend",
+    "MyWebSite/Topic Index (Tech).md",
+    "MyWebSite/Worth Reading Web Articles and Pages/Go benchmark best practice.md",
+    "NewNotes/Using framework or not using it.md",
+    "NewNotes/Difference between libraries and frameworks.md",
+    "NewNotes/Terraform commands.md",
+    "NewNotes/How raft is actually implemented in etcd database.md",
+    "MyWebSite/Worth Reading Web Articles and Pages/The raft implementation in etcd.md",
+    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Boyer-Moore Voting Algorithm.md",
+    "MyWebSite/DSA Problems/169. Majority Element.md",
+    "MyWebSite/DSA Problems/Interesing Algorithm List.md",
+    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Binary Search.md",
+    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Bitmap Encoding.md",
+    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Bloom Filter.md",
+    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Bloom Filter Code Example.md",
+    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/UnionFind (Disjoint Set).md",
+    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Skip List ( Search, Delete  Add, not finished yet).md",
+    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Prefix Tree (Trie).md",
+    "Data Stucture && Algorithm",
+    "files/截圖 2024-03-12 上午10.46.16.png",
+    "files/截圖 2024-03-11 下午5.14.14.png",
+    "MyWebSite/Projects/Data-Engine (Linker Vision)/Elasticsearch",
+    "MyWebSite/Projects/Data-Engine (Linker Vision)/Deployment",
+    "MyWebSite/Projects/Data-Engine (Linker Vision)/Airflow",
+    "MyWebSite/Projects/Data-Engine (Linker Vision)/Backend",
+    "MyWebSite/Projects/Data-Engine (Linker Vision)/Platform",
+    "MyWebSite/Projects/Data-Engine (Linker Vision)",
+    "files/截圖 2024-02-19 上午11.27.20.png",
+    "files/截圖 2024-02-19 上午11.10.50.png",
+    "MyWebSite/Software Engineer Vault/Networking",
+    "files/截圖 2024-01-31 下午4.43.19.png",
+    "MyWebSite/Projects/Re-Bitcask/Design Aspects",
+    "files/AsychronousScheduler.png",
+    "files/截圖 2024-01-08 下午5.29.06.png",
+    "Untitled.canvas",
+    "files/截圖 2024-01-03 上午10.47.42.png",
+    "files/640.png",
+    "files/640 (1).gif"
+  ]
+}

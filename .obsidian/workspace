@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "7276362a0298d1f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c664a1ef57bf0cf0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "553f8b2c6792e3c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b901fde58000b06b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09cbdf4f3db40c05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b430bee449eda093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "generator",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79d53646ade2aaf3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "4615d18949f07bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec641dc3150aad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313890306c645237",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "080b07695b5b02fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed7691e5f0651d0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77d57150b4e0cd5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "c664a1ef57bf0cf0",
+  "lastOpenFiles": [
+    "gui application concept (fyne)- go.md",
+    "slicing of arrays -go.md",
+    "iterating hashmap - go.md",
+    "Programming/building a simple command line tool - go.md",
+    "Programming/removing a module in go - go.md",
+    "Programming/how to fix \"cannot find fmt in any of - go.md",
+    "Programming/WSGI, ASGI webframe work under the hood - python.md",
+    "Programming/Poetry, package manager - python.md",
+    "Programming/PDB The python debugger - python.md",
+    "Programming/Making AsyncMock awaitable - python.md"
+  ]
+}
