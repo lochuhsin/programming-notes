@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyWebSite/Worth Reading Web Articles and Pages/Go benchmark best practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyWebSite/Worth Reading Web Articles and Pages/Go benchmark best practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MyWebSite/Worth Reading Web Articles and Pages/Go benchmark best practice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,6 +204,7 @@
   },
   "active": "ea64b78f3a79c943",
   "lastOpenFiles": [
+    "Bash.md",
     "MyWebSite/TechStack.md",
     "MyWebSite/Welcome to my journey.md",
     "NewNotes/How to get raised ?.md",
@@ -234,7 +231,6 @@
     "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Bloom Filter Code Example.md",
     "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/UnionFind (Disjoint Set).md",
     "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Skip List ( Search, Delete  Add, not finished yet).md",
-    "MyWebSite/Software Engineer Vault/Data Structure & Algorithm/Prefix Tree (Trie).md",
     "Data Stucture && Algorithm",
     "files/截圖 2024-03-12 上午10.46.16.png",
     "files/截圖 2024-03-11 下午5.14.14.png",
